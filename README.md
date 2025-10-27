@@ -76,7 +76,7 @@
 - 🌱 Learning **Advanced React Patterns** and **System Design**
 - 👯 Looking to collaborate on **Open Source Projects** and **Innovative Web Apps**
 - 💬 Ask me about **React, Next.js, Node.js, JavaScript, Frontend Architecture**
-- 📫 How to reach me: **himanshiyadav@example.com**
+- 📫 How to reach me: **himanshiyadav4g@gmail.com**
 - ⚡ Fun fact: **I believe in clean code and pixel-perfect UIs!**
 
 </div>
